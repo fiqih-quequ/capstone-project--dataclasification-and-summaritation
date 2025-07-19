@@ -1,4 +1,4 @@
-# 🌍 Analisis dan Prediksi Kualitas Udara Menggunakan Data Polusi di Amerika Serikat Berbasis AI
+# Analisis dan Prediksi Kualitas Udara Menggunakan Data Polusi di Amerika Serikat Berbasis AI
 
 ## Latar Belakang
 
@@ -51,7 +51,7 @@ Proyek ini juga memanfaatkan AI (IBM Granite Model) untuk menghasilkan insight o
 
 ---
 
-## ✅ Rekomendasi
+## Rekomendasi
 
 1. Fokus penanganan polusi udara di kota industri dengan konsentrasi PM2.5 tinggi.
 2. Lakukan intervensi berbasis waktu pada musim panas untuk menekan lonjakan O3.
